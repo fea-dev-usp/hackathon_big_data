@@ -1,0 +1,2 @@
+desafio_1 se refere ao faturamento das lojas atuais disponibilizadas.
+desafio_2 se refere ao faturamento das lojas em cenário de expansão.
